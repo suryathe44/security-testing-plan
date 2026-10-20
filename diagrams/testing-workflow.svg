@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="500" viewBox="0 0 1000 500" role="img" aria-labelledby="title desc">
+<title id="title">Permission-based security testing workflow</title>
+<desc id="desc">A safe workflow from authorisation to scoping, baseline, controlled tests, analysis, reporting, and closure. A scope mismatch leads to stop and notify.</desc>
+<rect width="1000" height="500" rx="20" fill="#0d1728"/>
+<text x="42" y="48" font-family="Arial,sans-serif" font-size="22" fill="#f3f6ff" font-weight="700">Permission-Based Security Testing Workflow</text>
+<text x="42" y="74" font-family="Arial,sans-serif" font-size="13" fill="#aab8d2">Proceed only after written authorisation; record real results only.</text>
+<g font-family="Arial,sans-serif" font-size="14" text-anchor="middle">
+<g fill="#172b46" stroke="#6d9bd6" stroke-width="1.5">
+<rect x="42" y="125" width="170" height="72" rx="12"/><rect x="270" y="125" width="170" height="72" rx="12"/><rect x="498" y="125" width="170" height="72" rx="12"/><rect x="726" y="125" width="220" height="72" rx="12"/>
+<rect x="726" y="282" width="220" height="72" rx="12"/><rect x="498" y="282" width="170" height="72" rx="12"/><rect x="270" y="282" width="170" height="72" rx="12"/><rect x="42" y="282" width="170" height="72" rx="12"/>
+</g>
+<g fill="#f3f6ff" font-weight="700">
+<text x="127" y="154"><tspan x="127">1. Written</tspan><tspan x="127" dy="19">authorisation</tspan></text>
+<text x="355" y="154"><tspan x="355">2. Confirm scope</tspan><tspan x="355" dy="19">and exclusions</tspan></text>
+<text x="583" y="154"><tspan x="583">3. Baseline</tspan><tspan x="583" dy="19">and test window</tspan></text>
+<text x="836" y="154"><tspan x="836">4. Controlled</tspan><tspan x="836" dy="19">low-impact tests</tspan></text>
+<text x="836" y="311"><tspan x="836">5. Analyse</tspan><tspan x="836" dy="19">evidence</tspan></text>
+<text x="583" y="311"><tspan x="583">6. Report</tspan><tspan x="583" dy="19">and remediate</tspan></text>
+<text x="355" y="311"><tspan x="355">7. Approved</tspan><tspan x="355" dy="19">retest</tspan></text>
+<text x="127" y="311"><tspan x="127">8. Closeout</tspan><tspan x="127" dy="19">and retain safely</tspan></text>
+</g>
+<g stroke="#9cb8e8" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M212 161 H258 l-8 -6 m8 6 l-8 6"/><path d="M440 161 H486 l-8 -6 m8 6 l-8 6"/><path d="M668 161 H714 l-8 -6 m8 6 l-8 6"/>
+<path d="M836 197 V269 l-6 -8 m6 8 l6 -8"/><path d="M726 318 H680 l8 -6 m-8 6 l8 6"/><path d="M498 318 H452 l8 -6 m-8 6 l8 6"/><path d="M270 318 H224 l8 -6 m-8 6 l8 6"/>
+</g>
+<rect x="340" y="400" width="320" height="52" rx="10" fill="#3b2029" stroke="#e77b89" stroke-width="1.5"/>
+<text x="500" y="422" fill="#ffe7eb" font-weight="700">Scope unclear, impact, or data exposure?</text><text x="500" y="440" fill="#ffd1d8" font-size="12">STOP immediately · notify owner · document event</text>
+<path d="M355 197 V230 H500 V388" stroke="#e77b89" stroke-width="1.8" stroke-dasharray="5 5" fill="none"/>
+</g>
+</svg>
