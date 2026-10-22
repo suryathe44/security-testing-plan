@@ -58,7 +58,7 @@ Then open `http://127.0.0.1:3000`. This command is provided as an optional lab s
 
 ## Explanatory video
 
-**Video URL:** `ADD_UNLISTED_YOUTUBE_OR_VIEWABLE_GOOGLE_DRIVE_LINK_HERE`
+**Video URL:** https://youtu.be/kpup7Gll-tI
 
 Do not submit this placeholder as a real video link. Record the explanation, upload it with viewing access, then update this line.
 
